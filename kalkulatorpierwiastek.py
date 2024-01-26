@@ -1,4 +1,4 @@
-
+import math
 def pierwiastek(x):
     if x >= 0:
         return math.sqrt(x)
